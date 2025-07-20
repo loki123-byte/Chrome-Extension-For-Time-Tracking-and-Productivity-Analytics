@@ -62,13 +62,15 @@ WORKING-:
 
 .It calculates how long the user stayed on the previous site.
 
+.It updates the local data store with the time spent.
+
+.The popup UI reads and displays this data in real-time.
+
+
 OUTPUT-:
 
 <img width="288" height="176" alt="Image" src="https://github.com/user-attachments/assets/a73019ab-f08c-4b60-b1b0-b21aaa1a6a06" />
 
-.It updates the local data store with the time spent.
-
-.The popup UI reads and displays this data in real-time.
 
 
 
